@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bwsTools"]
+	path = bwsTools
+	url = https://github.com/markhwhiteii/bwstools
+	shallow = true
+	registered = true
